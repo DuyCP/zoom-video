@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+
+#my-self-view-video, #my-self-view-canvas {
+  width: 100%;
+  height: auto;
+  display: none;
+}
+
+#participant-videos-canvas {
+  width: 100%;
+  height: auto;
+}
